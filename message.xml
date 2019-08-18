@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Your mom is really gay! I think you are too!</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
